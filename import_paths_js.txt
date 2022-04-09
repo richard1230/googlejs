@@ -1,0 +1,6 @@
+200 https://ads.google.com/aw/google_ads_prefetch.js?paths=/aw,/aw_video/signup
+200 https://ads.google.com/aw/google_ads_prefetch.js?paths=/aw,/aw_cm,/aw_express/management
+200 https://careers.google.com/jobs/js/graphics/paths.js
+200 https://careers.google.com/jobs/js/graphics/paths_test.js
+200 https://careers.google.com/jobs/js/math/paths_test.js
+200 https://careers.google.com/jobs/js/math/paths.js
